@@ -1,2 +1,2 @@
-# rsocketpricinggenerator
-rest rsocket generator pricing
+this is part of a pricing generator including rsocket and REST.
+
